@@ -1,9 +1,9 @@
-<h1 align="center">Java and Android developer</h1>
+<h2 align="center">Java and Android developer</h1>
 
-<!--
-**alexsgi/alexsgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Trying to do useful stuff and libs for your projects</p>
+<br>
+<p align="left">Currently working on <b>sPush</b> - send push notifications from your IoT devices directly to your mobile phone</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-stats-hosting.vercel.app/api?username=alexsgi&count_private=true&hide=stars,contribs&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=ocean_dark" />
+</p>
